@@ -12,4 +12,4 @@ python sever.py
 
 python client.py 
 
-in two more terminals. If you choose player name 'tic' or 'smejd', the player will not interactively ask you for each step but use preprogramed strategy insted.
+in two more terminals. If you choose player name 'tit' or 'smejd', the player will not interactively ask you for each step but use preprogramed strategy insted.
