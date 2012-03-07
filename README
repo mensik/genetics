@@ -1,0 +1,15 @@
+1. R E Q U I R E M E N T S
+
+In order to run this program, you need python 2.7 interpreter and libraries: thread, pickle, socket.
+
+2. S I M P L E   T E S T
+
+Just run :
+
+python sever.py
+
+ in one terminal and
+
+python client.py 
+
+in two more terminals. If you choose player name 'tic' or 'smejd', the player will not interactively ask you for each step but use preprogramed strategy insted.
